@@ -1,0 +1,145 @@
+body{
+    width: 1200px;
+    margin: auto;
+    width: 1440px;
+    height: 7202px;
+}
+
+.contuner{
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 40px;
+    gap: 30px;
+}
+
+.seacrh {
+    width: 427px;
+    border: none;
+    font-size: 16px;
+    background-color:rgba(47, 43, 67, 0.04);
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.ask-btn {
+    background-color: rgba(51, 131, 110, 1);
+    border: none;
+    border-radius: 10px;
+    padding: 10px 20px;
+    color: white;
+    font-size: 16px;
+}
+
+.phone-number {
+    font-weight: bold;
+    font-size: 18px;
+    display: block;
+}
+
+
+
+.menu {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 30px;
+}
+
+.menu-border {
+    display: flex;
+    align-items: center;
+    padding: 10px 20px;
+    border: 1px solid rgba(47, 43, 67, 0.15);
+    border-radius: 10px;
+}
+
+.menu a{
+    text-decoration: none;
+    color: #140A32;
+}
+
+.box{
+    display: flex;
+    justify-content: space-between;
+    margin: 40px 0px;
+}
+
+.box1{
+    width: 657px;
+}
+.box1 a{
+    text-decoration: none;
+    color: rgba(47, 43, 67, 0.5);
+}
+
+.heading{
+    font-size: 38px;
+    color: #140A32;
+    font-weight: 700;
+    line-height: 52px;
+    padding: 30px 0px;
+}
+
+.text{
+    line-height: 160%;
+}
+
+.box1-2{
+    padding: 30px 0px;
+    display: flex;
+    gap: 30px;
+}
+
+.phone-number1{
+    color: rgba(51, 131, 110, 1);
+    font-size: 24px;
+    line-height: 33px;
+    
+}
+
+.contact-info {
+    font-size: 12px;
+    color: rgba(47, 43, 67, 0.5);
+}
+.contact-info1 {
+    display: block;
+    height: 0px;
+    border: 1px solid #33836E;
+}
+
+.menu a{
+    color: #000;
+}
+
+.box2{
+    margin: 40px 0px;
+    
+}
+
+.green{
+    color: rgba(51, 131, 110, 1);
+}
+
+.min-box {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 20px;
+    gap: 15px;
+    width: 270px;
+    border: 1px solid rgba(47, 43, 67, 0.15);
+    border-radius: 20px;
+}
+
+.box3-1 {
+    display: flex;
+    gap: 120px;
+    margin: 30px 0px;
+}
